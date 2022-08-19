@@ -1,0 +1,38 @@
+div{
+   text-align: center;
+   display: grid;
+   place-items: center; 
+   border-radius: 30px;
+   width: 50%;
+   background: transparent;
+}
+
+body{
+   background: url(customTable\ bc.jpg);
+   background-attachment: fixed;
+   background-size: cover;
+   background-repeat: no-repeat;
+   display: grid;
+   place-items: center;
+}
+
+button{
+  text-align: center;
+  border-radius: 40px;
+  background-color: aliceblue;  
+}
+
+button:hover{
+   size: 20px;
+   border-radius: 50px;
+   color: burlywood; 
+   cursor: pointer;
+   font-size: 25px;
+}
+
+h1{ 
+  color: darkslateblue;
+  margin-top: 100px;
+  font-size: 50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
